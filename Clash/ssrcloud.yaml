@@ -72,25 +72,25 @@ Proxy:
 # 加密算法推荐：AEAD_AES_128_GCM AEAD_AES_192_GCM AEAD_AES_256_GCM AEAD_CHACHA20_POLY1305
 
 # Shadowsocks
-- { name: "日本7", type: ss, server: hr07.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "日本7", type: ss, server: hr07.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 # Shadowsocks
-- { name: "东落地92", type: ss, server: sghk07.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "东落地92", type: ss, server: sghk07.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 # Shadowsocks
-- { name: "东落地89", type: ss, server: sghk04.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "东落地89", type: ss, server: sghk04.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 # Shadowsocks
-- { name: "东落地91", type: ss, server: sghk06.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "东落地91", type: ss, server: sghk06.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 # Shadowsocks
-- { name: "韩国1", type: ss, server: krgame01.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "韩国1", type: ss, server: krgame01.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 # Shadowsocks
-- { name: "韩国2", type: ss, server: krgame02.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "韩国2", type: ss, server: krgame02.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 # Shadowsocks
-- { name: "韩国3", type: ss, server: krgame03.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh", udp: true }
+- { name: "韩国3", type: ss, server: krgame03.nurobiz.com, port: 41413, cipher: rc4-md5, password: "dyhwzjh..", udp: true }
 
 
 
